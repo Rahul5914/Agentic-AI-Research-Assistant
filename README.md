@@ -4,7 +4,7 @@
 
 An Agentic AI-powered Research Assistant built using **LangGraph, LangChain, Groq LLM, and Tavily Search**, capable of autonomously using tools like Arxiv, Wikipedia, and Web Search to answer research queries.
 
-Live Demo: [https://agentic-ai-research-assistant-jenzfs7znik77qrgzfuxge.streamlit.app/]
+Live Demo: [https://agentic-ai-research-assistant-ike6sxhzsl9rhvavappkky.streamlit.app/]
 
 ---
 
